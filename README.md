@@ -2,11 +2,10 @@
 
 <h2> Hi there,  I'm Jeong Hye-yeong.👋 </h2>  
 
-`#Essence Explorer` 
+`#Data Explorer` 
 <h3 align="center"> </h3> 
-<b>I am Data Consultant.</b> I always seek to find the core insights in data analysis.  
-
-데이터 분석을 통해 본질을 찾아내는 데이터 컨설턴트가 되고 싶습니다.   
+I study data science for better planning.
+I always seek to find the core insights in data analysis.  
 
 <img src="https://komarev.com/ghpvc/?username=Omaaay" alt="https://github.com/Omaaay" />
 
