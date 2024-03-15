@@ -20,6 +20,7 @@ I always seek to find the core insights in data analysis.
 
 <!-- BLOG-POST-LIST:START -->
 - [fit_transform를 test data에 하면 안되는 이유](https://blablablog.tistory.com/6)
+- [SHAP차트 해석](https://blablablog.tistory.com/10)
 
 <!-- BLOG-POST-LIST:END -->
 
